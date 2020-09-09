@@ -4,4 +4,4 @@
 2. Input "Capitalix" into search fieild (asserction)
 3. Click "Google search" Button (asserction)
 4. Click the very first link of search result
-5 Check Capitalix's website is opened
+5. Check Capitalix's website is opened
